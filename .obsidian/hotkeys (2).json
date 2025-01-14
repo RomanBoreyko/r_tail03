@@ -1,0 +1,10 @@
+{
+  "templater-obsidian:obsi-pattern/Templater.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "-"
+    }
+  ]
+}

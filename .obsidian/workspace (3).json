@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "acaeed626f82c6e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "d439d94c2e13eea3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "782a2144f299479c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "main-line/Герман  Орф/Стркутура.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "34c34ff14c498a78",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f61c46b71ad7d25",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d1ba6c6af4b8e4d6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b84d3762b7ad3382",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "65680af63b940957",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 247.50418853759766
+  },
+  "right": {
+    "id": "0f1965f42aca1ec8",
+    "type": "split",
+    "children": [
+      {
+        "id": "33e03eee6db27dd6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d8ffea6692a8717",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "main-line/Герман  Орф/Стркутура.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "60aaad6cdf6bf039",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "main-line/Герман  Орф/Стркутура.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "41f2d99e49757304",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4cafc0d118ebf265",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "main-line/Герман  Орф/Стркутура.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "d1ba6c6af4b8e4d6",
+  "lastOpenFiles": [
+    "main-line/Герман  Орф/Untitled.md",
+    "main-line/Герман  Орф/Стркутура.md",
+    "main-line/черновик/Хрестоматия/Хронология/R0_Хронология.md",
+    "main-line/черновик/Хрестоматия/Сцены/R0_Сцены.md",
+    "main-line/черновик/Хрестоматия/Фольклор/R0_Фольклор.md",
+    "main-line/черновик/Хрестоматия/Сторуктура/R0_Структура.md",
+    "main-line/черновик/Хрестоматия/Хронология",
+    "main-line/черновик/Хрестоматия/Сцены",
+    "main-line/черновик/Хрестоматия/Фольклор",
+    "main-line/черновик/Хрестоматия/Сторуктура",
+    "main-line/черновик/Хрестоматия/R0_Хрестоматия.md",
+    "main-line/черновик/Хрестоматия",
+    "main-line/черновик/0. СД/Подвал/Пожелания.md",
+    "main-line/черновик/0. СД/Подвал/Иси.md",
+    "main-line/черновик/0. СД/Настолка_/8. Зодчий и Песиглавцы.md",
+    "main-line/черновик/0. СД/Настолка_/7. Бес_ Проект Быков.md",
+    "main-line/черновик/0. СД/Культ_ Проект-Кабанов/0. Культ_ S&S черновик 0.1.txt",
+    "main-line/черновик/0. СД/Настолка_/6.4. Кладбище.md",
+    "main-line/черновик/0. СД/Настолка_/1. Клуб_ Ночь Когда Можно Говорить.md",
+    "main-line/черновик/0. СД/Настолка_/6.2. Проект Быков.md",
+    "main-line/черновик/0. СД/Настолка_/6.1. Степь и Проект.md",
+    "main-line/черновик/0. СД/Настолка_/4. Маркус_ Заказ.md",
+    "main-line/черновик/0. СД/Настолка_/10. Ангел.md",
+    "main-line/черновик/0. СД/Культ_ Проект-Кабанов/4. Медвежонок..md",
+    "main-line/черновик/0. СД/Настолка_/0. Структура.md",
+    "main-line/черновик/0. СД/Культ_ Проект-Кабанов/3. Проект-Кабанов-ч2.md",
+    "main-line/черновик/0. СД/Культ_ Проект-Кабанов/2. Культ_ S&S черновик 0.2.md",
+    "main-line/черновик/0. СД/Корпорация/Контрактор.md",
+    "main-line/черновик/0. СД/Подвал",
+    "main-line/черновик/0. СД/Настолка_",
+    "main-line/черновик/0. СД/Культ_ Проект-Кабанов",
+    "main-line/черновик/0. СД/Корпорация",
+    "main-line/ззадачи.md",
+    "main-line/Хрестоматия/Хронология/R0_Хронология.md",
+    "main-line/Хрестоматия/Фольклор/R0_Фольклор.md",
+    "main-line/Хрестоматия/Сцены/R0_Сцены.md",
+    "ДоХХХХоrm/old/4_core/мех/Мех Чучело Домовцев.canvas",
+    "ДоХХХХоrm/old/2Бек/img/Untitled.canvas",
+    "ДоХХХХоrm/old/2Бек/img/Untitled 1.canvas",
+    "ДоХХХХоrm/old/2Бек/img/Stillwater.webp",
+    "ДоХХХХоrm/old/2Бек/img/SteppeMap.webp",
+    "ДоХХХХоrm/old/2Бек/img/SteppeMap 1.webp",
+    "ДоХХХХоrm/old/2Бек/img/Stairway_remake_concept_art.webp",
+    "ДоХХХХоrm/old/2Бек/img/StairwaySpleen.webp",
+    "ДоХХХХоrm/old/2Бек/img/StairwayGut1.webp",
+    "ДоХХХХоrm/old/2Бек/img/Polyhedron_cathedral_opening.webp",
+    "ДоХХХХоrm/old/2Бек/img/Demo_screenshot_6.webp",
+    "ДоХХХХоrm/old/2Бек/img/Cathedral_concept_art.webp",
+    "ДоХХХХоrm/old/2Бек/img/Abattoir_concept_art.webp"
+  ]
+}

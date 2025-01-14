@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "a452e9d092fac311",
+    "type": "split",
+    "children": [
+      {
+        "id": "0e32efc9e9cfd174",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3df3d231411b50a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "R(comedy)/Ориджин Германа Орфа/Сцены/Джеймс Тагг/Лозана/Структура Лозаны.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f98d58892f176365",
+    "type": "split",
+    "children": [
+      {
+        "id": "7922ad837f569365",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f03c15ab28e1540d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3be0b4ce0eaa3fe3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a56bfe73ba1bd31d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6066d46767727376",
+    "type": "split",
+    "children": [
+      {
+        "id": "fefa5784c70b1977",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b967779edace7103",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "R(comedy)/Ориджин Германа Орфа/Сцены/Джеймс Тагг/Лозана/Структура Лозаны.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3093cf0dfbc502e1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "R(comedy)/Ориджин Германа Орфа/Сцены/Джеймс Тагг/Лозана/Структура Лозаны.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9ed272aa81d13862",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6f806df4a43da3a8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "R(comedy)/Ориджин Германа Орфа/Сцены/Джеймс Тагг/Лозана/Структура Лозаны.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "3df3d231411b50a3",
+  "lastOpenFiles": [
+    "R(comedy)/Ориджин Германа Орфа/Сцены/Джеймс Тагг/Лозана/вики_ Hatchet Face.md",
+    "R(comedy)/Ориджин Германа Орфа/Сцены/Джеймс Тагг/Лозана/Структура Лозаны.md",
+    "R(comedy)/Ориджин Германа Орфа/Сцены/Джеймс Тагг/Лозана/вики_ Клод--Каракатица.md",
+    "R(comedy)/Ориджин Германа Орфа/Сцены/Джеймс Тагг/Лозана/вики.md",
+    "R(comedy)/Ориджин Германа Орфа/Сцены/Джеймс Тагг/Вики.md",
+    "R(comedy)/Ориджин Германа Орфа/Сцены/Джеймс Тагг/вязи.md",
+    "R(comedy)/Ориджин Германа Орфа/Сцены/Джеймс Тагг/Джеймс Тагг.md",
+    "R(comedy)/Ориджин Германа Орфа/Сцены/Джеймс Тагг/Задача.md",
+    "R(comedy)/Ориджин Германа Орфа/Сцены/Джеймс Тагг/Структура.md",
+    "R(comedy)/Ориджин Германа Орфа/Сцены/Джеймс Тагг/Сцены.md",
+    "R(comedy)/Ориджин Германа Орфа/Вики.md",
+    "R(comedy)/Ориджин Германа Орфа/внешность.md",
+    "R(comedy)/Ориджин Германа Орфа/Вход.md",
+    "R(comedy)/Ориджин Германа Орфа/Выход.md",
+    "R(comedy)/Ориджин Германа Орфа/Задача.md",
+    "R(comedy)/Ориджин Германа Орфа/метод.md",
+    "R(comedy)/Ориджин Германа Орфа/Плато.md",
+    "R(comedy)/Ориджин Германа Орфа/Стркутура.md",
+    "R(comedy)/Ориджин Германа Орфа/Цитаты.md",
+    "R(comedy)/Ориджин Германа Орфа/Сцены/Джеймс Тагг/Лозана",
+    "ChatExport_2024-08-26/photos/photo_46@03-08-2024_09-30-34_thumb.jpg",
+    "ChatExport_2024-08-26/photos/photo_45@11-07-2024_15-29-13_thumb.jpg",
+    "ChatExport_2024-08-26/photos/photo_44@26-06-2024_20-53-02_thumb.jpg",
+    "ChatExport_2024-08-26/photos/photo_43@21-06-2024_05-00-09_thumb.jpg",
+    "ChatExport_2024-08-26/photos/photo_42@19-06-2024_01-25-55_thumb.jpg",
+    "ChatExport_2024-08-26/photos/photo_41@18-06-2024_12-12-20_thumb.jpg",
+    "ChatExport_2024-08-26/photos/photo_40@18-06-2024_12-12-20_thumb.jpg",
+    "ChatExport_2024-08-26/photos/photo_39@18-06-2024_12-12-20_thumb.jpg",
+    "ChatExport_2024-08-26/photos/photo_38@18-06-2024_12-12-19_thumb.jpg",
+    "ChatExport_2024-08-26/photos/photo_37@18-06-2024_12-12-19_thumb.jpg",
+    "ChatExport_2024-08-26/files/Культ_ S&S черновик 0.2.md",
+    "ChatExport_2024-08-26/files/Культ_ S&S черновик 0.1.txt",
+    "ChatExport_2024-08-26/files/НЕСОКРУШИМЫЙ (три части).mp3",
+    "ChatExport_2024-08-26/video_files/IMG_1307.MP4",
+    "ChatExport_2024-08-26/stickers/AnimatedSticker (3).tgs",
+    "ChatExport_2024-08-26/stickers/AnimatedSticker (2).tgs",
+    "ChatExport_2024-08-26/stickers/AnimatedSticker (1).tgs",
+    "ChatExport_2024-08-26/stickers/AnimatedSticker.tgs",
+    "ChatExport_2024-08-26/video_files/video_2@13-06-2024_07-03-41.mp4",
+    "ChatExport_2024-08-26/video_files/video_1@10-06-2024_00-23-04.mp4",
+    "ChatExport_2024-08-26/files/АрчДомСтартКурильщик.md",
+    "ChatExport_2024-08-26/files/Последняя речь Берна. Перевод R0_.md",
+    "ChatExport_2024-08-26/files/Остання_промова_Берна_Переклад_R0_.md",
+    "R(comedy)/Ориджин Германа Орфа/Структура.md",
+    "наброс/счет.MD",
+    "r-comedy-0.1/Welcome.md",
+    "r-note-main/ДоХХХХоrm/old/4_core/мех/Мех Чучело Домовцев.canvas",
+    "r-note-main/ДоХХХХоrm/old/2Бек/img/Untitled.canvas",
+    "r-note-main/ДоХХХХоrm/old/2Бек/img/Untitled 1.canvas"
+  ]
+}
