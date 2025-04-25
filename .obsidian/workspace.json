@@ -15,14 +15,48 @@
               "state": {
                 "file": "ноты Тарантула/Пролог- Нота Тарантула v.0.4. форматирование для обси.md",
                 "mode": "source",
+                "source": false,
                 "backlinks": true,
-                "source": false
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Пролог- Нота Тарантула v.0.4. форматирование для обси"
+            }
+          },
+          {
+            "id": "d44a9d098cc69efa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ноты Тарантула/Пролог- Нота Тарантула v.0.4. форматирование для обси.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
               "title": "Пролог- Нота Тарантула v.0.4. форматирование для обси"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -41,7 +75,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Файловый менеджер"
@@ -177,14 +212,23 @@
               "icon": "lucide-git-fork",
               "title": "Граф"
             }
+          },
+          {
+            "id": "04e635833e4f519c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 697.5,
-    "collapsed": true
+    "width": 697.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,7 +242,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "671fa5529d565730",
+  "active": "d44a9d098cc69efa",
   "lastOpenFiles": [
     "ноты Тарантула/Пролог_ Нота Тарантула v.0.4.md",
     "ноты Тарантула/Пролог- Нота Тарантула v.0.4. форматирование для обси.md",
