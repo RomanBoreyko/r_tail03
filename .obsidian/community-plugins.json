@@ -1,4 +1,6 @@
 [
   "templater-obsidian",
-  "obsidian-custom-file-extensions-plugin"
+  "obsidian-custom-file-extensions-plugin",
+  "obsidian-git",
+  "obsidian-languagetool-plugin"
 ]

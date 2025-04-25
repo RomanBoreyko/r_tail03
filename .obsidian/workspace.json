@@ -11,10 +11,15 @@
             "id": "671fa5529d565730",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "ноты Тарантула/Пролог- Нота Тарантула v.0.4. форматирование для обси.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "Пролог- Нота Тарантула v.0.4. форматирование для обси"
             }
           }
         ]
@@ -48,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Отчет МСИ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "ae78e9df3e97ab8f",
@@ -189,11 +193,17 @@
       "canvas:Создать новый холст": false,
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false
+      "command-palette:Открыть палитру команд": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "671fa5529d565730",
   "lastOpenFiles": [
+    "ноты Тарантула/Пролог_ Нота Тарантула v.0.4.md",
+    "ноты Тарантула/Пролог- Нота Тарантула v.0.4. форматирование для обси.md",
+    "Мать Бодхо.md",
+    "ноты Тарантула/Пролог- Нота Тарантула v.0.3.md",
     "ДоХХХХоrm/4_core/0м. 0. Фольклор к R(comedy)..md",
     "ДоХХХХоrm/4_core/0м. 1. Фольклор к R(comedy)..cpp",
     "ДоХХХХоrm/2Бек/инфа/группы/Сонная Группа/люди/1_Юлия-Люричева-леттер.md",
@@ -218,9 +228,6 @@
     "ДоХХХХоrm/2Бек/инфа/группы/Стаматины.md",
     "ДоХХХХоrm/2Бек/инфа/группы/Удурги/Сущьность Хранителя Времени.md",
     "ДоХХХХоrm/2Бек/инфа/группы/Сонная Группа/Внутренний Покой",
-    "ДоХХХХоrm/2Бек/инфа/группы/Удурги/ПГ/ПараГрибницы.md",
-    "ДоХХХХоrm/2Бек/инфа/черновики/kain.md",
-    "ДоХХХХоrm/2Бек/инфа/группы/Удурги/ПГ/Власти/Дети Власти/Не погребенный Аврокс.md",
     "img/Pasted image 20230619185651.png",
     "img/SteppeMap.webp",
     "img",
